@@ -202,11 +202,11 @@ Machine learning web application that predicts heart disease risk using a traine
     <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=google-chrome&logoColor=4285F4" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/adeesha-induja-783a04238/">
     <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:adeeshainduja@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
