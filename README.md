@@ -1,111 +1,96 @@
-<h1 align="center">Hi 👋, I'm Adeesha Induja</h1>
-<h3 align="center">Software Engineering Undergraduate | Data Engineering & Automation Enthusiast</h3>
+---
+
+## 🧑‍💻 Technologies & Tools
 
 <p align="center">
-  <a href="https://github.com/adeeshainduja">
-    <img src="https://komarev.com/ghpvc/?username=adeeshainduja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,html,css,bootstrap,mysql,postgres,mongodb,firebase,git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 Languages
 
-- 🎓 Software Engineering Undergraduate at the University of Sri Jayewardenepura  
-- 💡 Interested in **Data Engineering, Automation, Web Development, and AI/ML**
-- 🔭 Currently building practical projects for internship opportunities
-- ⚙️ Learning **Python, SQL, ETL pipelines, n8n, Docker, APIs, and Cloud basics**
-- 🎨 Also experienced in graphic design and video editing
-- 🌐 Portfolio: [adeeshainduja.me](https://adeeshainduja.me)
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,flask,mysql,postgres,docker,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Web Development
 
-### 🔹 Customer Support Ticket Analytics Pipeline
-End-to-end data engineering pipeline for cleaning, storing, analyzing, and visualizing support ticket data.
-
-**Tech:** Python, Pandas, SQL, PostgreSQL, Streamlit  
-**Focus:** ETL, Data Cleaning, Analytics Dashboard
-
----
-
-### 🔹 Job Market Data Pipeline with n8n
-Automation workflow for collecting and organizing job/internship market data using n8n and APIs.
-
-**Tech:** n8n, APIs, Google Sheets, Automation  
-**Focus:** Workflow Automation, API Integration
-
----
-
-### 🔹 AI-Powered Image Super Resolution System
-AI-based full-stack system for improving low-resolution and noisy images.
-
-**Tech:** AI/ML, JavaScript, Docker, Backend, Frontend  
-**Focus:** Image Enhancement, Full-stack Development
-
----
-
-### 🔹 EventHive Event Booking Platform
-Full-stack event booking and venue management platform with user authentication and admin features.
-
-**Tech:** React, Node.js, Express, MySQL  
-**Focus:** Full-stack Web Development
-
----
-
-### 🔹 Heart Disease Prediction Web App
-Machine learning web app for predicting heart disease risk using a trained ML model.
-
-**Tech:** Python, Flask, Machine Learning, TypeScript  
-**Focus:** ML Model Integration, Web Application
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeeshainduja&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeshainduja&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeshainduja&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
 </p>
 
 ---
 
-## 🌱 Current Focus
+## 🛠️ Backend & Databases
 
-- Building data engineering projects
-- Improving GitHub, LinkedIn, CV, and portfolio
-- Learning cloud and automation tools
-- Preparing for Software Engineering / Data Engineering internships
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/adeeshainduja">GitHub</a> |
-  <a href="https://adeeshainduja.me">Portfolio</a> |
-  <a href="#">LinkedIn</a> |
-  <a href="mailto:your-email@gmail.com">Email</a>
+<p>
+  <img src="https://img.shields.io/badge/NODE.JS-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-0F172A?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MONGODB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/FIREBASE-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </p>
 
 ---
 
-<p align="center">
-  ⭐ Always learning, building, and improving.
+## 🤖 Data Engineering, AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PANDAS-0F172A?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NUMPY-0F172A?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/JUPYTER-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/ETL-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
 </p>
+
+---
+
+## ⚙️ Automation & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/N8N-0F172A?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/GIT-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/VS_CODE-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/POSTMAN-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PHOTOSHOP-0F172A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-0F172A?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/PREMIERE_PRO-0F172A?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/AFTER_EFFECTS-0F172A?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/CANVA-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+</p>
+
+---
+
+## 📊 Current Interests
+
+<p>
+  📈 Data Engineering & ETL Pipelines &nbsp; | &nbsp;
+  🤖 Automation with n8n &nbsp; | &nbsp;
+  🌐 Full-Stack Development &nbsp; | &nbsp;
+  🧠 AI/ML Applications
+</p>
+
+---
