@@ -16,7 +16,7 @@
 
 - 🎓 Software Engineering Undergraduate at the University of Sri Jayewardenepura  
 - 💡 Interested in **Data Engineering, Automation, Web Development, and AI/ML**
-- 🔭 Currently building practical projects for internship opportunities
+- 🔭 Building practical projects
 - ⚙️ Learning **Python, SQL, ETL Pipelines, n8n, Docker, APIs, and Cloud Basics**
 - 🎨 Experienced in **Graphic Design and Video Editing**
 - 🌐 Portfolio: [adeeshainduja.me](https://adeeshainduja.me)
